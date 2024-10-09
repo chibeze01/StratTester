@@ -1,0 +1,33 @@
+2024-10-06 13:39:42 [INFO] server listening on [::1]:8765
+2024-10-06 13:39:42 [INFO] server listening on 127.0.0.1:8765
+2024-10-06 13:39:42 [INFO] Strategy server started.
+2024-10-06 13:39:42 [INFO] connection open
+2024-10-06 13:39:42 [INFO] Received exit command. Closing connection.
+2024-10-06 13:39:42 [INFO] Connection closed.
+2024-10-06 13:39:42 [INFO] connection closed
+2024-10-06 13:39:42 [INFO] Strategy server shutting down.
+2024-10-06 13:39:42 [INFO] server closing
+2024-10-06 13:39:42 [INFO] server closed
+2024-10-06 13:39:42 [INFO] Strategy server has shut down.
+2024-10-06 13:39:52 [INFO] server listening on 127.0.0.1:8765
+2024-10-06 13:39:52 [INFO] server listening on [::1]:8765
+2024-10-06 13:39:52 [INFO] Strategy server started.
+2024-10-06 13:39:52 [INFO] connection open
+2024-10-06 13:39:52 [INFO] Received exit command. Closing connection.
+2024-10-06 13:39:52 [INFO] Connection closed.
+2024-10-06 13:39:52 [INFO] connection closed
+2024-10-06 13:39:52 [INFO] Strategy server shutting down.
+2024-10-06 13:39:52 [INFO] server closing
+2024-10-06 13:39:52 [INFO] server closed
+2024-10-06 13:39:52 [INFO] Strategy server has shut down.
+2024-10-06 13:40:07 [INFO] server listening on 127.0.0.1:8765
+2024-10-06 13:40:07 [INFO] server listening on [::1]:8765
+2024-10-06 13:40:07 [INFO] Strategy server started.
+2024-10-06 13:40:08 [INFO] connection open
+2024-10-06 13:40:08 [INFO] Received exit command. Closing connection.
+2024-10-06 13:40:08 [INFO] Connection closed.
+2024-10-06 13:40:08 [INFO] connection closed
+2024-10-06 13:40:08 [INFO] Strategy server shutting down.
+2024-10-06 13:40:08 [INFO] server closing
+2024-10-06 13:40:08 [INFO] server closed
+2024-10-06 13:40:08 [INFO] Strategy server has shut down.

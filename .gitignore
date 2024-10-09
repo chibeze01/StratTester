@@ -1,0 +1,11 @@
+.vscode/
+
+# build files
+*/build/
+*/dist/
+
+# mics
+*/__pycache__/
+
+# the spec files
+*/*.spec
